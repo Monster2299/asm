@@ -1,0 +1,4 @@
+MVI B,0AH
+MOV A,B
+INR A
+HLT

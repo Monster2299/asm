@@ -1,0 +1,3 @@
+LDA 0004H
+MOV B,A
+FAX1: 
